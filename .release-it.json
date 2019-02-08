@@ -2,9 +2,6 @@
   "npm": {
     "publish": false
   },
-  "github": {
-    "release": true
-  },
   "git": {
     "tagName": "v${version}"
   }
