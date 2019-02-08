@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RayDabbah/Release-testing/issues"
   },
-  "homepage": "https://github.com/RayDabbah/Release-testing#readme"
+  "homepage": "https://github.com/RayDabbah/Release-testing#readme",
+  "devDependencies": {
+    "release-it": "^10.1.0"
+  }
 }
